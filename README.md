@@ -1,2 +1,6 @@
 # catnodes
-update 1 / 50
+Update 2/50 -
+
+CatNodes,
+CatNodes - Nodes,
+CatNodes - Panel
